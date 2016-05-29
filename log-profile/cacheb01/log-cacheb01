@@ -1,0 +1,24 @@
+
+------------------------------
+>> TH: EEMBC Portable Test Harness V4.000
+>> BM: Algorithm #13 --  Cache Buster  V1.0A0 - cacheb01
+>> ID: AUT cacheb01   
+
+>> START!
+>> FINISHED!
+--  Non-Intrusive CRC =   57
+--  Iterations        = 100000
+--  Target Duration   = 60683734
+--  v1                = 0
+--  v2                = 0
+--  v3                = 0
+--  v4                = 0
+--  Iterations/Sec  =     1647.888
+--  Total Run Time  =       60.684sec
+--  Time / Iter     =        0.000606837sec
+-- Info             = L
+>> DONE!
+>> BM: Algorithm #13 --  Cache Buster  V1.0A0 - cacheb01
+>> ID: AUT cacheb01   
+
+>> USER EXIT!

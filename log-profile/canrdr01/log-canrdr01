@@ -1,0 +1,24 @@
+
+------------------------------
+>> TH: EEMBC Portable Test Harness V4.000
+>> BM: Alg. #4 - Response to Remote Request(CAN)V1.0E0 - canrdr00
+>> ID: AUT canrdr01    EEMBC
+
+>> START!
+>> FINISHED!
+--  Non-Intrusive CRC = cb20
+--  Iterations        = 200000
+--  Target Duration   = 66716145
+--  v1                = 0
+--  v2                = 0
+--  v3                = 0
+--  v4                = 0
+--  Iterations/Sec  =     2997.775
+--  Total Run Time  =       66.716sec
+--  Time / Iter     =        0.000333581sec
+-- Info             = 1
+>> DONE!
+>> BM: Alg. #4 - Response to Remote Request(CAN)V1.0E0 - canrdr00
+>> ID: AUT canrdr01    EEMBC
+
+>> USER EXIT!

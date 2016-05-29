@@ -1,0 +1,24 @@
+
+------------------------------
+>> TH: EEMBC Portable Test Harness V4.000
+>> BM: Algorithm #12 -- Matrix Math V1.0E0 - matrix
+>> ID: AUT matrix01   
+
+>> START!
+>> FINISHED!
+--  Non-Intrusive CRC = 2bf3
+--  Iterations        =   110
+--  Target Duration   = 89252356
+--  v1                = 0
+--  v2                = 0
+--  v3                = 0
+--  v4                = 0
+--  Iterations/Sec  =        1.232
+--  Total Run Time  =       89.252sec
+--  Time / Iter     =        0.811385055sec
+-- Info             = 1
+>> DONE!
+>> BM: Algorithm #12 -- Matrix Math V1.0E0 - matrix
+>> ID: AUT matrix01   
+
+>> USER EXIT!

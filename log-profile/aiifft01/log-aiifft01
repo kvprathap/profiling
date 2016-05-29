@@ -1,0 +1,24 @@
+
+------------------------------
+>> TH: EEMBC Portable Test Harness V4.000
+>> BM: Alg #17 -- Inverse Fast Fourier Transform V1.0A0 - aiifft01
+>> ID: AUT aiifft01   
+
+>> START!
+>> FINISHED!
+--  Non-Intrusive CRC = 7c4c
+--  Iterations        =   200
+--  Target Duration   = 221994069
+--  v1                = 0
+--  v2                = 0
+--  v3                = 0
+--  v4                = 0
+--  Iterations/Sec  =        0.901
+--  Total Run Time  =      221.994sec
+--  Time / Iter     =        1.109970345sec
+-- Info             = 1
+>> DONE!
+>> BM: Alg #17 -- Inverse Fast Fourier Transform V1.0A0 - aiifft01
+>> ID: AUT aiifft01   
+
+>> USER EXIT!

@@ -1,0 +1,24 @@
+
+------------------------------
+>> TH: EEMBC Portable Test Harness V4.000
+>> BM: Algorithm #1 -- Table Lookup V1.0G0 - TBLOOK01
+>> ID: AUT tblook01   
+
+>> START!
+>> FINISHED!
+--  Non-Intrusive CRC = 9c19
+--  Iterations        = 10000
+--  Target Duration   = 38409173
+--  v1                = 0
+--  v2                = 0
+--  v3                = 0
+--  v4                = 0
+--  Iterations/Sec  =      260.354
+--  Total Run Time  =       38.409sec
+--  Time / Iter     =        0.003840917sec
+-- Info             = 1
+>> DONE!
+>> BM: Algorithm #1 -- Table Lookup V1.0G0 - TBLOOK01
+>> ID: AUT tblook01   
+
+>> USER EXIT!

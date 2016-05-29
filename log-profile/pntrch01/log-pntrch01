@@ -1,0 +1,25 @@
+
+------------------------------
+>> TH: EEMBC Portable Test Harness V4.000
+>> BM: Algorithm #11 --  Pointer Chasing V1.0E0 
+>> ID: AUT pntrch01   
+
+>> START!
+>> FINISHED!
+--  Non-Intrusive CRC = 7cb5
+--  Iterations        =  2500
+--  Target Duration   = 209693296
+--  v1                = 0
+--  v2                = 0
+--  v3                = 0
+--  v4                = 0
+--  Iterations/Sec  =       11.922
+--  Total Run Time  =      209.693sec
+--  Time / Iter     =        0.083877318sec
+-- Info             = L
+--  Failure: Actual CRC 7cb5, Expected CRC 4a6
+>> Failure: 1
+>> BM: Algorithm #11 --  Pointer Chasing V1.0E0 
+>> ID: AUT pntrch01   
+
+>> USER EXIT!

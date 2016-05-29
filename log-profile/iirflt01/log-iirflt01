@@ -1,0 +1,24 @@
+
+------------------------------
+>> TH: EEMBC Portable Test Harness V4.000
+>> BM: Alg.#7 - Low-Pass Filter(IIR)and DSP functions V1.0E0-iirflt00
+>> ID: AUT iirflt01   
+
+>> START!
+>> FINISHED!
+--  Non-Intrusive CRC = ccc1
+--  Iterations        = 10000
+--  Target Duration   = 34593136
+--  v1                = 0
+--  v2                = 0
+--  v3                = 0
+--  v4                = 0
+--  Iterations/Sec  =      289.075
+--  Total Run Time  =       34.593sec
+--  Time / Iter     =        0.003459314sec
+-- Info             = 1
+>> DONE!
+>> BM: Alg.#7 - Low-Pass Filter(IIR)and DSP functions V1.0E0-iirflt00
+>> ID: AUT iirflt01   
+
+>> USER EXIT!

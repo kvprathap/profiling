@@ -1,0 +1,24 @@
+
+------------------------------
+>> TH: EEMBC Portable Test Harness V4.000
+>> BM: Alg. #10 - Basic Floating-Point V1.0C0 -basefp01
+>> ID: AUT basefp01   
+
+>> START!
+>> FINISHED!
+--  Non-Intrusive CRC = f33d
+--  Iterations        = 10000
+--  Target Duration   = 19241372
+--  v1                = 0
+--  v2                = 0
+--  v3                = 0
+--  v4                = 0
+--  Iterations/Sec  =      519.713
+--  Total Run Time  =       19.241sec
+--  Time / Iter     =        0.001924137sec
+-- Info             = 1
+>> DONE!
+>> BM: Alg. #10 - Basic Floating-Point V1.0C0 -basefp01
+>> ID: AUT basefp01   
+
+>> USER EXIT!

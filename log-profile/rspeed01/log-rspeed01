@@ -1,0 +1,24 @@
+
+------------------------------
+>> TH: EEMBC Portable Test Harness V4.000
+>> BM: Algorithm #6 -- Road Speed Calculation V1.0E0 - rspeed00
+>> ID: AUT rspeed01   
+
+>> START!
+>> FINISHED!
+--  Non-Intrusive CRC = 76c7
+--  Iterations        = 100000
+--  Target Duration   = 34085625
+--  v1                = 0
+--  v2                = 0
+--  v3                = 0
+--  v4                = 0
+--  Iterations/Sec  =     2933.788
+--  Total Run Time  =       34.086sec
+--  Time / Iter     =        0.000340856sec
+-- Info             = 1
+>> DONE!
+>> BM: Algorithm #6 -- Road Speed Calculation V1.0E0 - rspeed00
+>> ID: AUT rspeed01   
+
+>> USER EXIT!

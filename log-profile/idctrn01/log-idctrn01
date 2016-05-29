@@ -1,0 +1,24 @@
+
+------------------------------
+>> TH: EEMBC Portable Test Harness V4.000
+>> BM: Alg.#14 - iDCT,Inverse Discrete Cosine Transform V1.0E0 
+>> ID: AUT idctrn01   
+
+>> START!
+>> FINISHED!
+--  Non-Intrusive CRC = cffc
+--  Iterations        =  1500
+--  Target Duration   = 126140817
+--  v1                = 0
+--  v2                = 0
+--  v3                = 0
+--  v4                = 0
+--  Iterations/Sec  =       11.891
+--  Total Run Time  =      126.141sec
+--  Time / Iter     =        0.084093878sec
+-- Info             = 1
+>> DONE!
+>> BM: Alg.#14 - iDCT,Inverse Discrete Cosine Transform V1.0E0 
+>> ID: AUT idctrn01   
+
+>> USER EXIT!

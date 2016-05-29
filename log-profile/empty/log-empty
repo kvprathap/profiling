@@ -1,0 +1,24 @@
+
+------------------------------
+>> TH: EEMBC Portable Test Harness V4.000
+>> BM: Void Benchmark to measure size of Test Harness
+>> ID: ALL empty    
+
+>> START!
+>> FINISHED!
+--  Non-Intrusive CRC =    0
+--  Iterations        =  5000
+--  Target Duration   =   702
+--  v1                = 0
+--  v2                = 0
+--  v3                = 0
+--  v4                = 0
+--  Iterations/Sec  =  7122507.123
+--  Total Run Time  =        0.001sec
+--  Time / Iter     =        0.000000140sec
+-- Info             = Just at test to see how big the TH is.
+>> DONE!
+>> BM: Void Benchmark to measure size of Test Harness
+>> ID: ALL empty    
+
+>> USER EXIT!

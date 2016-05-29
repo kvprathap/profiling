@@ -1,0 +1,25 @@
+
+------------------------------
+>> TH: EEMBC Portable Test Harness V4.000
+>> BM: Algorithm #5 -- Tooth-To-Spark V1.0H0 - ttsprk01
+>> ID: AUT ttsprk01   
+
+>> START!
+>> FINISHED!
+--  Non-Intrusive CRC = 849b
+--  Iterations        = 10000
+--  Target Duration   = 82263843
+--  v1                = 0
+--  v2                = 0
+--  v3                = 0
+--  v4                = 0
+--  Iterations/Sec  =      121.560
+--  Total Run Time  =       82.264sec
+--  Time / Iter     =        0.008226384sec
+-- Info             = L
+--  Failure: Actual CRC 849b, Expected CRC b1
+>> Failure: 1
+>> BM: Algorithm #5 -- Tooth-To-Spark V1.0H0 - ttsprk01
+>> ID: AUT ttsprk01   
+
+>> USER EXIT!

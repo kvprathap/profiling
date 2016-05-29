@@ -1,0 +1,24 @@
+
+------------------------------
+>> TH: EEMBC Portable Test Harness V4.000
+>> BM: Algorithm #3 -- Pulse-Width Modulation V1.0F0 - puwmod01
+>> ID: AUT puwmod01   
+
+>> START!
+>> FINISHED!
+--  Non-Intrusive CRC = ed1d
+--  Iterations        = 100000
+--  Target Duration   = 39097800
+--  v1                = 0
+--  v2                = 0
+--  v3                = 0
+--  v4                = 0
+--  Iterations/Sec  =     2557.689
+--  Total Run Time  =       39.098sec
+--  Time / Iter     =        0.000390978sec
+-- Info             = 1
+>> DONE!
+>> BM: Algorithm #3 -- Pulse-Width Modulation V1.0F0 - puwmod01
+>> ID: AUT puwmod01   
+
+>> USER EXIT!

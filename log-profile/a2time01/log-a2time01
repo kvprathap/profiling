@@ -1,0 +1,24 @@
+
+------------------------------
+>> TH: EEMBC Portable Test Harness V4.000
+>> BM: Algorithm #2 -- Angle-To-Time Conversion V1.0E0 - a2time00
+>> ID: AUT a2time01   
+
+>> START!
+>> FINISHED!
+--  Non-Intrusive CRC = c74a
+--  Iterations        = 50000
+--  Target Duration   = 30807639
+--  v1                = 0
+--  v2                = 0
+--  v3                = 0
+--  v4                = 0
+--  Iterations/Sec  =     1622.974
+--  Total Run Time  =       30.808sec
+--  Time / Iter     =        0.000616153sec
+-- Info             = 1
+>> DONE!
+>> BM: Algorithm #2 -- Angle-To-Time Conversion V1.0E0 - a2time00
+>> ID: AUT a2time01   
+
+>> USER EXIT!
